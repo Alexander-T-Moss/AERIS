@@ -10,11 +10,14 @@ fp-info-cache
 sym-lib-table-bak
 *.net
 
-# KiCad-generated fabrication files
+# Ignore Gerbers folder, but keep Gerbers.zip
+Gerbers/
+!Gerbers.zip
+
+# KiCad-generated fabrication files outside Gerbers zip
 *.gbr
 *.drl
 *.pos
-*.zip
 
 # Temporary editor/project files
 *.tmp
