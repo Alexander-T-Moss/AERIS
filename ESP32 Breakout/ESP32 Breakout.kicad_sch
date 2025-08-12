@@ -5,7 +5,7 @@
 	(uuid "3644c77c-2441-4800-869f-e50193af88cd")
 	(paper "A5")
 	(title_block
-		(title "ESP32C3 Breakout Board")
+		(title "ESP32 Breakout")
 		(date "2025-08-11")
 		(rev "1")
 		(company "AERIS")
