@@ -1,0 +1,210 @@
+(footprint "TO-92_Inline"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
+	(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
+	(property "Reference" "Q1"
+		(at 1.27 -3.56 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b43a2160-5a4f-4cad-b4a4-770bef72efb4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "2N3904"
+		(at 1.27 2.79 0)
+		(layer "F.Fab")
+		(uuid "7e7515bb-ed57-4d69-bf56-c113c9c8c13a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "469d597e-467d-467a-91f2-43cbec3ca946")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b94b9a8b-0241-4cf9-b605-739a35582263")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.53 1.85)
+		(end 3.07 1.85)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f77a372d-c6bf-41d9-a730-6249d792750f")
+	)
+	(fp_arc
+		(start -0.568478 1.838478)
+		(mid -1.132087 -0.994977)
+		(end 1.27 -2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "42a0f201-0603-4c52-9094-f6ad45b8c9e4")
+	)
+	(fp_arc
+		(start 1.27 -2.6)
+		(mid 3.672087 -0.994977)
+		(end 3.108478 1.838478)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe8ab21c-8d8d-4027-a3f6-67a4e5fc375a")
+	)
+	(fp_line
+		(start -1.46 -2.73)
+		(end -1.46 2.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9fc4817d-370d-4cd7-89c8-989b4d2987b6")
+	)
+	(fp_line
+		(start -1.46 -2.73)
+		(end 4 -2.73)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2f26d4fc-fee2-48f9-aaa0-a0f8083049b9")
+	)
+	(fp_line
+		(start 4 2.01)
+		(end -1.46 2.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c8e74afb-d681-42c8-a186-92f3bbb48f08")
+	)
+	(fp_line
+		(start 4 2.01)
+		(end 4 -2.73)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "282eaf4d-a806-4fc5-ac0f-6397deaa4d5f")
+	)
+	(fp_line
+		(start -0.5 1.75)
+		(end 3 1.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "216444c2-0011-4a40-a9ca-3b174f56bc06")
+	)
+	(fp_arc
+		(start -0.483625 1.753625)
+		(mid -1.021221 -0.949055)
+		(end 1.27 -2.48)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7ae2c7e0-4962-4571-b6a9-4b317e19bfd3")
+	)
+	(fp_arc
+		(start 1.27 -2.48)
+		(mid 3.561221 -0.949055)
+		(end 3.023625 1.753625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "14e50007-6508-4f81-8248-7ae7d6cf11ad")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.27 0 0)
+		(layer "F.Fab")
+		(uuid "1493a45b-453d-45e9-ba26-d26b13c41a71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.05 1.5)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(clearance 0)
+		(uuid "37a795e8-749c-407a-b9be-35ab508fed93")
+	)
+	(pad "2" thru_hole oval
+		(at 1.27 0)
+		(size 1.05 1.5)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c1ee203d-7697-43f3-974d-8a10b9e5d829")
+	)
+	(pad "3" thru_hole oval
+		(at 2.54 0)
+		(size 1.05 1.5)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "eb96214a-d7a3-4779-ac76-bfd93667beb9")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.step"
+		(offset
+			(xyz 0 0 -2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
