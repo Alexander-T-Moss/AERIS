@@ -1,1 +1,25 @@
+# KiCad backup and autosave files
+*~ 
+*.bak
+*.kicad_prl
+*.kicad_sch-bak
+*-backups/
+
+# KiCad cache and info files
+fp-info-cache
+sym-lib-table-bak
+*.net
+
+# KiCad-generated fabrication files
+*.gbr
+*.drl
+*.pos
+*.zip
+
+# Temporary editor/project files
+*.tmp
+*.swp
+
+# OS-specific files
 .DS_Store
+Thumbs.db
