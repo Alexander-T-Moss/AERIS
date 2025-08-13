@@ -10,7 +10,7 @@
 <br/>
 
 ## 📌 Design Goals
-- 💾 **Accurate & Trustable Data** – Accomplished through the use of the SEN55 being calibrated during it's production
+- 💾 **Accurate & Trustable Data** – Accomplished through the use of the SEN55 being calibrated during it's production and designing the enclosure with a seperate fan to remove the thermal influence of the ESP32 from the SEN55
 - 💰 **Low-Cost** – Compared to similar devices, AERIS's DIY design leads to a halving of total device cost
 - ⚙️ **Full Hardware Utilisation** – The provided ESPHome firmware, every last drop of information is pulled from AERIS
 - 🛠 **Simple Assembly** – Using a breakout PCB, assembly is simplified to requiring just a soldering iron and a few minutes of time
