@@ -1,3 +1,6 @@
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/282ac998-404a-4882-8bfc-ee642892d781" />
+
+
 # ☁️ AERIS – Air Quality Monitoring System ☁️
 
 [![GitHub Release](https://img.shields.io/github/release/Alexander-T-Moss/AERIS?include_prereleases=&sort=semver&color=blue)](https://github.com/Alexander-T-Moss/AERIS/releases/)
