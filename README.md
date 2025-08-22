@@ -17,6 +17,20 @@
 - **Low-Cost** – Compared to similar devices, AERIS's DIY design approach and BOM minimisation considerations lead to a halving of the unit cost at just £35/€40/$48.
 - **Full Hardware Utilisation** – With the provided firmware options, every last drop of information is pulled from AERIS, getting as much "bang-for-buck" out of the used hardware.
 - **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is simplified to requiring minimal tools and a few minutes of time.
-- **Accessible** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. The device can also operate stand-alone without the need for home assistant.
+- **Accessible** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. The device can also operate stand-alone without the need for a home assistant instance.
 
 <br/>
+
+## ⚙️ So You Want To Build An AERIS Unit? ⚙️
+<details>
+<summary>Sourcing What You Need</summary>
+An up-to-date BOM with sourcing links can be found on [this shared Google Sheets](https://docs.google.com/spreadsheets/d/1mJc1zBeTynDavnT_W-ohvICVWmxclnV7TeTP1ajoJcM/edit?usp=sharing). (This is a view-only access link; save your own copy if you wish to make edits)
+</details>
+<details>
+<summary>Printing The Case</summary>
+Insert important stuff here
+</details>
+<details>
+<summary>Putting It All Together</summary>
+Insert important stuff here
+</details>
