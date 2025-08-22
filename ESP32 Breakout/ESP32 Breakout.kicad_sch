@@ -1488,6 +1488,18 @@
 		(uuid 011a1d89-b5ea-4cc8-9800-9fd59c6e1583)
 	)
 	(rectangle
+		(start 142.24 69.85)
+		(end 167.64 92.71)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 210a72fa-db30-4448-b827-09037c388bd5)
+	)
+	(rectangle
 		(start 142.24 40.64)
 		(end 167.64 63.5)
 		(stroke
@@ -1531,6 +1543,16 @@
 		)
 		(uuid "9e1b329c-6079-48a3-bbc8-0d65861ae072")
 	)
+	(text "Display"
+		(exclude_from_sim no)
+		(at 146.05 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c7dd73a0-8b1c-4bb7-a381-e6b45b6660bd")
+	)
 	(text "XIAO ESP32C3"
 		(exclude_from_sim no)
 		(at 48.26 39.37 0)
@@ -1554,6 +1576,10 @@
 		(uuid "4feed7b7-eee0-41bf-a389-c88f073f9e19")
 	)
 	(no_connect
+		(at 83.82 50.8)
+		(uuid "57ce262f-6e41-49e9-bee4-8b60299ddffb")
+	)
+	(no_connect
 		(at 83.82 58.42)
 		(uuid "7a52906a-309c-4e64-b966-66bad27b354c")
 	)
@@ -1568,10 +1594,6 @@
 	(no_connect
 		(at 83.82 63.5)
 		(uuid "8fc81378-36aa-4e74-a005-04930fe83487")
-	)
-	(no_connect
-		(at 83.82 50.8)
-		(uuid "a2de2369-7763-4bd5-a093-54e2210780fc")
 	)
 	(no_connect
 		(at 83.82 66.04)
@@ -1619,6 +1641,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 85.09) (xy 157.48 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cb8cf61-a66a-41b9-af26-75377e191b5d")
+	)
+	(wire
+		(pts
 			(xy 157.48 55.88) (xy 157.48 54.61)
 		)
 		(stroke
@@ -1626,6 +1658,16 @@
 			(type default)
 		)
 		(uuid "1ea4034c-919f-4438-a509-cc638902ed3b")
+	)
+	(wire
+		(pts
+			(xy 156.21 87.63) (xy 157.48 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "210fe239-89d5-493c-b7d0-930ec628e193")
 	)
 	(wire
 		(pts
@@ -1709,6 +1751,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 81.28) (xy 157.48 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52dab2a6-923f-425e-ade4-e116cde51315")
+	)
+	(wire
+		(pts
 			(xy 111.76 45.72) (xy 111.76 46.99)
 		)
 		(stroke
@@ -1749,6 +1801,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 85.09) (xy 157.48 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3e52e1f-7d91-4a8d-94f7-415d1b5f80e4")
+	)
+	(wire
+		(pts
 			(xy 48.26 69.85) (xy 48.26 68.58)
 		)
 		(stroke
@@ -1769,6 +1831,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 78.74) (xy 157.48 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c31be535-a8cf-45f2-8859-fe3a1adb29b1")
+	)
+	(wire
+		(pts
 			(xy 118.11 63.5) (xy 120.65 63.5)
 		)
 		(stroke
@@ -1776,6 +1848,26 @@
 			(type default)
 		)
 		(uuid "c4518295-faca-4a63-9cd8-090b2adc9e76")
+	)
+	(wire
+		(pts
+			(xy 153.67 88.9) (xy 157.48 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e11419fd-a4d5-4fa8-be1a-b5ff168bfb83")
+	)
+	(wire
+		(pts
+			(xy 157.48 87.63) (xy 157.48 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1c77825-f8e1-4998-9314-2ba63bb88a62")
 	)
 	(wire
 		(pts
@@ -1806,6 +1898,16 @@
 			(justify right bottom)
 		)
 		(uuid "3d399eae-5ea5-4b20-99e7-9cdb65d131af")
+	)
+	(label "SDA"
+		(at 156.21 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "72e3dccb-6a71-4acf-b6b2-2191fe9fff4a")
 	)
 	(label "SCL"
 		(at 46.99 72.39 180)
@@ -1846,6 +1948,16 @@
 			(justify right bottom)
 		)
 		(uuid "ca6e1db8-4514-47b9-9a1d-1a75dcb393e3")
+	)
+	(label "SCL"
+		(at 156.21 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d33986d5-f1e5-4d32-b114-30b52852bbc4")
 	)
 	(label "SDA"
 		(at 46.99 69.85 180)
@@ -1918,6 +2030,73 @@
 			(project "Aeris ESP32C3 Breakout"
 				(path "/3644c77c-2441-4800-869f-e50193af88cd"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 153.67 88.9 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28ca8543-f218-4fdd-89a4-b5ec320c3a75")
+		(property "Reference" "#PWR09"
+			(at 147.32 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 149.86 88.8999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b8ee703c-e6dd-4947-8b79-f15906879427")
+		)
+		(instances
+			(project "ESP32 Breakout"
+				(path "/3644c77c-2441-4800-869f-e50193af88cd"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -2052,6 +2231,73 @@
 			(project ""
 				(path "/3644c77c-2441-4800-869f-e50193af88cd"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 153.67 81.28 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5189a2b2-26df-4795-8835-0aaecdd283a4")
+		(property "Reference" "#PWR08"
+			(at 147.32 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 149.86 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 153.67 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5e1d56e7-2c44-47c6-b4e1-54b75cedd5b7")
+		)
+		(instances
+			(project "ESP32 Breakout"
+				(path "/3644c77c-2441-4800-869f-e50193af88cd"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -2195,6 +2441,72 @@
 			(project "Aeris ESP32C3 Breakout"
 				(path "/3644c77c-2441-4800-869f-e50193af88cd"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 154.94 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8307a16e-a7c3-40c3-824c-95745a44888e")
+		(property "Reference" "#PWR010"
+			(at 154.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 154.94 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 154.94 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6fb0acc-208a-4d10-899c-56684e51c2ac")
+		)
+		(instances
+			(project "ESP32 Breakout"
+				(path "/3644c77c-2441-4800-869f-e50193af88cd"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -2567,6 +2879,86 @@
 			(project "Aeris ESP32C3 Breakout"
 				(path "/3644c77c-2441-4800-869f-e50193af88cd"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x05_Socket")
+		(at 162.56 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c1779c94-7c1c-4dc5-899e-9e53454f75d2")
+		(property "Reference" "J3"
+			(at 163.83 83.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x05_Socket"
+			(at 163.83 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Custom Footprints:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
+			(at 162.56 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x05, script generated"
+			(at 162.56 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "17131794-da9b-44b4-adb5-7b189ce93f6b")
+		)
+		(pin "4"
+			(uuid "20689f8b-8cbc-42da-b682-e0124e74b901")
+		)
+		(pin "3"
+			(uuid "6543caee-682e-4028-9379-ab68f4314ed4")
+		)
+		(pin "2"
+			(uuid "5d3dda7f-8b78-48b9-8de2-6f5a762f1f76")
+		)
+		(pin "1"
+			(uuid "26ee003e-2960-43a0-884e-be381025bbda")
+		)
+		(instances
+			(project "ESP32 Breakout"
+				(path "/3644c77c-2441-4800-869f-e50193af88cd"
+					(reference "J3")
 					(unit 1)
 				)
 			)
