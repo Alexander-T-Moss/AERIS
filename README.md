@@ -13,11 +13,11 @@
 <br/>
 
 ## 📌 Project Goals 📌
-- **Accurate & Trustable Data** – Accomplished using the SEN55, which is factor calibrated, along with thermally isolating the unit from the other electronics to prevent unwanted influence on readings
-- **Low-Cost** – Compared to similar devices, AERIS's DIY design approach and BOM minimisation considerations lead to a halving of the unit cost at just £35/€40/$48
-- **Full Hardware Utilisation** – With the provided firmware options, every last drop of information is pulled from AERIS, getting as much "bang-for-buck" out of the used hardware
-- **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is simplified to requiring minimal tools and a few minutes of time
-- **Accessible** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. The device can also operate stand-alone without the need for home assistant
+- **Accurate & Trustable Data** – Accomplished using the SEN55, which is factor calibrated, along with thermally isolating the unit from the other electronics to prevent unwanted influence on readings.
+- **Low-Cost** – Compared to similar devices, AERIS's DIY design approach and BOM minimisation considerations lead to a halving of the unit cost at just £35/€40/$48.
+- **Full Hardware Utilisation** – With the provided firmware options, every last drop of information is pulled from AERIS, getting as much "bang-for-buck" out of the used hardware.
+- **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is simplified to requiring minimal tools and a few minutes of time.
+- **Accessible** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. The device can also operate stand-alone without the need for home assistant.
 
 <br/>
 
