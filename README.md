@@ -21,27 +21,5 @@
 
 <br/>
 
-## ⚙️ Building An AERIS Unit ⚙️
-<details>
-<summary>Sourcing Parts</summary>
-  <br/>
-  
-  > An up-to-date BOM with sourcing links can be found on [this](https://docs.google.com/spreadsheets/d/1mJc1zBeTynDavnT_W-ohvICVWmxclnV7TeTP1ajoJcM/edit?usp=sharing) shared Google Sheets (This is a view-only access link; save your own copy if you wish to make edits). On here you'll find cost estimates for parts, along with several locations to source them from.
-  
-</details>
-
-<details>
-<summary>Printing The Case</summary>
-  <br/>
-  
-  > The STLs for the case can be found on this repo **here**. Alternatively, you can find the STLs along with print files on **Printables** and **Makerworld**.
-
-</details>
-
-<details>
-<summary>Assembly</summary>
-  <br/>
-  
-  > For information on building an AERIS unit and flashing the relevant firmware, view **this** section of the documentation
-
-</details>
+## ⚙️ More Information ⚙️
+Interested in this project? Visit the [official documentation](https://aeris-docs.xyz) site for more info
