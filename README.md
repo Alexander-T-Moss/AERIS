@@ -17,9 +17,9 @@
 - **Low-Cost** – Aeris's DIY friendly design approach and BOM considerations lead to an over halving of the unit cost at just £35/€40/$48 when compared to similar off-the-shelf products.
 - **Full Hardware Utilisation** – With the provided firmware options, every last drop of information is pulled from AERIS, getting as much "bang-for-buck" out of the used hardware.
 - **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is simplified to requiring minimal tools and just a few minutes of one's time.
-- **Accessible Project** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. 
+- **Accessible Project** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. Unlike similar monitors, Aeris can be fully utilised as a standalone unit without needing a Home Assistant instance. 
 
 <br/>
 
 ## ⚙️ More Information ⚙️
-Interested in this project? Visit the [official documentation](https://aeris-docs.xyz) site for more info
+Interested in this project? Visit the [official documentation](https://aeris-docs.xyz) site for more info.
