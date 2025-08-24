@@ -8,16 +8,16 @@
 [![Issues - AERIS](https://img.shields.io/github/issues/Alexander-T-Moss/AERIS)](https://github.com/Alexander-T-Moss/AERIS/issues)
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/)
 
-**AERIS** is an open-source air quality monitoring system built around the **ESP32** microcontroller and a **SEN55 sensor module**, paired with a custom breakout PCB board. It measures and reports environmental parameters, such as PM1.0, PM2.5, PM4.0, PM10, VOC, NOX, humidity and temperature in real-time to Home Assistant through ESPHome.
+**Aeris** is an open-source air quality monitor built around an **ESP32** microcontroller, **SEN55** module and custom breakout board. It measures and reports environmental parameters, such as Particulate Matter, VOCs, humidity and temperature in real-time to either a Home Assistant instance (through ESPHome) or a local web app.
 
 <br/>
 
 ## 📌 Project Goals 📌
-- **Accurate & Trustable Data** – Accomplished using the SEN55, which is factor calibrated, along with thermally isolating the unit from the other electronics to prevent unwanted influence on readings.
-- **Low-Cost** – Compared to similar devices, AERIS's DIY design approach and BOM minimisation considerations lead to a halving of the unit cost at just £35/€40/$48.
+- **Accurate & Trustable Data** – Accomplished using the SEN55, which is factory calibrated, along with thermally isolating the unit from the other electronics.
+- **Low-Cost** – Aeris's DIY friendly design approach and BOM considerations lead to an over halving of the unit cost at just £35/€40/$48 when compared to similar off-the-shelf products.
 - **Full Hardware Utilisation** – With the provided firmware options, every last drop of information is pulled from AERIS, getting as much "bang-for-buck" out of the used hardware.
-- **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is simplified to requiring minimal tools and a few minutes of time.
-- **Accessible** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. The device can also operate stand-alone without the need for a home assistant instance.
+- **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is simplified to requiring minimal tools and just a few minutes of one's time.
+- **Accessible Project** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. 
 
 <br/>
 
