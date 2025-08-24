@@ -13,11 +13,11 @@
 <br/>
 
 ## 📌 Project Goals 📌
-- **Accurate & Trustable Data** – Accomplished using the SEN55, which is factory calibrated, along with thermally isolating the unit from the other electronics.
-- **Low-Cost** – Aeris's DIY friendly design approach and BOM considerations lead to an over halving of the unit cost at just £35/€40/$48 when compared to similar off-the-shelf products.
-- **Full Hardware Utilisation** – With the provided firmware options, every last drop of information is pulled from AERIS, getting as much "bang-for-buck" out of the used hardware.
-- **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is simplified to requiring minimal tools and just a few minutes of one's time.
-- **Accessible Project** - Consideration is taken to reduce any friction from sourcing hardware to assembling an AERIS unit. Unlike similar monitors, Aeris can be fully utilised as a standalone unit without needing a Home Assistant instance. 
+- **Accurate & Trustable Data** – obtained by using the factory-calibrated SEN55 and thermally isolating the unit from the other electronics.
+- **Low-Cost** – Aeris' DIY-friendly design approach and BOM considerations result in a unit cost that is more than halved when compared to equivalent off-the-shelf products, at only £35/€40/$48.
+- **Full Hardware Utilisation** –  Using any of the provided firmware options, every last bit of information is extracted from Aeris, getting the most "bang-for-buck" out of the used hardware.
+- **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is streamlined to require minimal tools and only a few minutes.
+- **Accessible Project** - Care is taken to decrease friction from obtaining hardware to building an AERIS device. Unlike other monitors, Aeris can be used fully as a standalone unit without the need for a Home Assistant instance. 
 
 <br/>
 
