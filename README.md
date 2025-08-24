@@ -13,7 +13,7 @@
 <br/>
 
 ## 📌 Project Goals 📌
-- **Accurate & Trustable Data** – obtained by using the factory-calibrated SEN55 and thermally isolating the unit from the other electronics.
+- **Accurate & Trustable Data** – Obtained by using the factory-calibrated SEN55 and thermally isolating the unit from the other electronics.
 - **Low-Cost** – Aeris' DIY-friendly design approach and BOM considerations result in a unit cost that is more than halved when compared to equivalent off-the-shelf products, at only £35/€40/$48.
 - **Full Hardware Utilisation** –  Using any of the provided firmware options, every last bit of information is extracted from Aeris, getting the most "bang-for-buck" out of the used hardware.
 - **Simple Assembly** – From a snap-fit case to a breakout PCB, assembly is streamlined to require minimal tools and only a few minutes.
@@ -22,4 +22,4 @@
 <br/>
 
 ## ⚙️ More Information ⚙️
-Interested in this project? Visit the [official documentation](https://aeris-docs.xyz) site for more info.
+Interested in this project or building an Aeris unit? Visit the [official documentation](https://aeris-docs.xyz) site for more info.
