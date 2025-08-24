@@ -8,7 +8,7 @@
 [![Issues - AERIS](https://img.shields.io/github/issues/Alexander-T-Moss/AERIS)](https://github.com/Alexander-T-Moss/AERIS/issues)
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/)
 
-**Aeris** is an open-source air quality monitor built around an **ESP32** microcontroller, **SEN55** module and custom breakout board. It measures and reports environmental parameters, such as Particulate Matter, VOCs, humidity and temperature in real-time to either a Home Assistant instance (through ESPHome) or a local web app.
+**Aeris** is an open-source air quality monitor built around an **ESP32** microcontroller, **SEN55** module and custom breakout board. It measures and reports environmental parameters, such as particulate matter, VOCs, humidity and temperature in real-time to either a Home Assistant instance (through ESPHome) or a local web app.
 
 <br/>
 
