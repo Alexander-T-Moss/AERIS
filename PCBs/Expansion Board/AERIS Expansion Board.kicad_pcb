@@ -3325,10 +3325,9 @@
 		(format
 			(prefix "")
 			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
+			(units 2)
+			(units_format 1)
+			(precision 1)
 		)
 		(style
 			(thickness 0.1)
@@ -3339,7 +3338,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "43"
+		(gr_text "43.0 mm"
 			(at 121.5 94.5 0)
 			(layer "Dwgs.User")
 			(uuid "69b6180b-64d1-476b-817e-0066410d3240")
@@ -3363,10 +3362,9 @@
 		(format
 			(prefix "")
 			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
+			(units 2)
+			(units_format 1)
+			(precision 1)
 		)
 		(style
 			(thickness 0.1)
@@ -3377,7 +3375,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "19"
+		(gr_text "19.0 mm"
 			(at 149 110.24358 90)
 			(layer "Dwgs.User")
 			(uuid "b4c33b25-9df8-46fa-a759-51d88bf830f3")
