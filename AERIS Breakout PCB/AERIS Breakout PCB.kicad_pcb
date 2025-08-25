@@ -86,7 +86,7 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -6061,6 +6061,39 @@
 		(net 3)
 		(uuid "705c69d6-2fa3-4d4d-b876-e5ccb18b152b")
 	)
+	(gr_rect
+		(start 152.5 91.5)
+		(end 158 98)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "09ab7e72-ce30-4ae1-bbcc-f146403bd4c3")
+	)
+	(gr_rect
+		(start 168.5 93.5)
+		(end 175 106.5)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "20e84360-5aa7-403d-9d0c-745c002c2964")
+	)
+	(gr_rect
+		(start 160.5 93.5)
+		(end 167 106.5)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "ac3b407f-cbe3-43f2-9495-1cd24c850625")
+	)
 	(gr_arc
 		(start 178 109)
 		(mid 177.414214 110.414214)
@@ -6145,7 +6178,7 @@
 		(layer "Edge.Cuts")
 		(uuid "f5abe2a3-4bd2-4770-98c6-13d31b7cf9a7")
 	)
-	(gr_text "2N3904"
+	(gr_text "2N2222"
 		(at 155.5 104 0)
 		(layer "F.SilkS")
 		(uuid "104d2b1c-85f8-48bf-87c1-3ebf7f917fa8")
@@ -6200,7 +6233,7 @@
 			)
 		)
 	)
-	(gr_text "AERIS\nV1.1"
+	(gr_text "AERIS\nV1.2"
 		(at 147 100 90)
 		(layer "F.SilkS")
 		(uuid "d9f09306-9255-4c28-9e58-cb9ba9cebe4d")
@@ -6234,7 +6267,7 @@
 		)
 	)
 	(gr_text "DISPLAY"
-		(at 173 108.913923 -180)
+		(at 171.75 108.913923 -180)
 		(layer "B.SilkS")
 		(uuid "0ba537cc-3cdb-4468-ae96-a57083bfd0cf")
 		(effects
@@ -6245,7 +6278,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "5V0"
+	(gr_text "+5V"
 		(at 170.5 95 0)
 		(layer "B.SilkS")
 		(uuid "1ab019b1-2f3e-441c-bd42-326e95cd3bce")
@@ -6282,7 +6315,7 @@
 		)
 	)
 	(gr_text "SEN55"
-		(at 164.999517 108.909187 -180)
+		(at 163.75 108.909187 -180)
 		(layer "B.SilkS")
 		(uuid "2f9ab5c5-8ca2-40a8-8e3a-4332c1fd1a83")
 		(effects
@@ -6293,7 +6326,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "5V0"
+	(gr_text "+5V"
 		(at 154 96 90)
 		(layer "B.SilkS")
 		(uuid "317545f0-19aa-4756-89fe-759c35d6ba24")
@@ -6377,7 +6410,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "5V0"
+	(gr_text "+5V"
 		(at 162.5 95 0)
 		(layer "B.SilkS")
 		(uuid "bebc1dad-43db-4fd3-a359-b5e455e056ce")
@@ -6390,7 +6423,7 @@
 		)
 	)
 	(gr_text "SEN55"
-		(at 165 91.087494 0)
+		(at 163.75 91.087494 0)
 		(layer "B.SilkS")
 		(uuid "d913c357-38d7-402b-90d0-4009bf6841c1")
 		(effects
@@ -6426,7 +6459,7 @@
 		)
 	)
 	(gr_text "DISPLAY"
-		(at 172.999445 91.088491 0)
+		(at 171.75 91.088491 0)
 		(layer "B.SilkS")
 		(uuid "fa3cde1d-65f1-4305-a170-24c860475cd3")
 		(effects
