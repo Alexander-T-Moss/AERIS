@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -2803,7 +2803,7 @@
 		(end 107 116.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type dash)
 		)
 		(fill no)
 		(layer "B.SilkS")
@@ -2814,7 +2814,7 @@
 		(end 128.5 118.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type dash)
 		)
 		(fill no)
 		(layer "B.SilkS")
@@ -2825,7 +2825,7 @@
 		(end 141 118.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type dash)
 		)
 		(fill no)
 		(layer "B.SilkS")
@@ -2836,7 +2836,7 @@
 		(end 114.5 116.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type dash)
 		)
 		(fill no)
 		(layer "B.SilkS")
@@ -3098,7 +3098,7 @@
 		)
 	)
 	(gr_text "B2B"
-		(at 103.5 102 0)
+		(at 103.75 102 0)
 		(layer "B.SilkS")
 		(uuid "61b53a88-3cd4-41d6-abc7-57f52d87ad6d")
 		(effects
@@ -3134,7 +3134,7 @@
 		)
 	)
 	(gr_text "B2B"
-		(at 104 118 180)
+		(at 103.75 118 180)
 		(layer "B.SilkS")
 		(uuid "68481cc1-4c02-4697-8a37-a6b916bf3f43")
 		(effects
@@ -3266,7 +3266,7 @@
 		)
 	)
 	(gr_text "SEN55"
-		(at 111 102 0)
+		(at 111.25 102 0)
 		(layer "B.SilkS")
 		(uuid "d99e4828-cdb2-4a4f-9e82-ef5c7c3fb7ca")
 		(effects
