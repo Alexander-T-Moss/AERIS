@@ -1641,7 +1641,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/STEP/XIAO_ESP32C3.STEP"
+		(model "/Users/alex/Documents/GitHub/AERIS/CAD/Reference/Seeed Studio XIAO-ESP32-C3.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1649,7 +1649,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -6178,8 +6178,8 @@
 		(layer "Edge.Cuts")
 		(uuid "f5abe2a3-4bd2-4770-98c6-13d31b7cf9a7")
 	)
-	(gr_text "2N2222"
-		(at 155.5 104 0)
+	(gr_text "2N2\n222"
+		(at 155.5 103 0)
 		(layer "F.SilkS")
 		(uuid "104d2b1c-85f8-48bf-87c1-3ebf7f917fa8")
 		(effects
