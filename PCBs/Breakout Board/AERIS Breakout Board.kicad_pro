@@ -562,7 +562,7 @@
       "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/Aeris ESP32C3 Breakout.step",
+      "step": "../../CAD/PCBs/Aeris ESP32C3 Breakout.step",
       "svg": "",
       "vrml": ""
     },
