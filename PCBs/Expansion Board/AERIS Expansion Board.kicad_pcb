@@ -357,7 +357,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/alex/Downloads/BME280.step"
+		(model "/Users/alex/Documents/GitHub/AERIS/CAD/Reference/BME280.step"
 			(offset
 				(xyz 0 0 2.6)
 			)
@@ -1122,7 +1122,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "/Users/alex/Downloads/SCD41.step"
+		(model "/Users/alex/Documents/GitHub/AERIS/CAD/Reference/SCD41.step"
 			(offset
 				(xyz 0 0 2.6)
 			)
@@ -1615,7 +1615,7 @@
 	(footprint "Symbol:KiCad-Logo2_5mm_SilkScreen"
 		(layer "B.Cu")
 		(uuid "0eb84a9a-a560-48a2-98cd-75acebbbffc8")
-		(at 133.975796 107.334319 180)
+		(at 134.5 107.334319 180)
 		(descr "KiCad Logo")
 		(tags "Logo KiCad")
 		(property "Reference" "REF**"
@@ -2298,14 +2298,14 @@
 	(footprint "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen"
 		(layer "B.Cu")
 		(uuid "60aafb5d-ed94-4bdc-a341-f820fc21f276")
-		(at 121.813006 107.576766 180)
+		(at 123.024204 107.576766 180)
 		(descr "Open Source Hardware Symbol")
 		(tags "Logo Symbol OSHW")
 		(property "Reference" "REF**"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "7f9fc517-5fe3-4383-b61b-24fd72ddeedf")
+			(uuid "fc2e311c-9fb4-496f-838f-74309bddcfbd")
 			(effects
 				(font
 					(size 1 1)
@@ -2318,7 +2318,7 @@
 			(at 0.75 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1583b08c-75fe-4b97-8517-df91b0e8dab7")
+			(uuid "f32d5006-737e-4b2c-b347-4f1e96a97417")
 			(effects
 				(font
 					(size 1 1)
@@ -2332,7 +2332,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "99baae2e-a57b-432c-825a-c798160369dd")
+			(uuid "7428cb7e-d46a-41c7-907e-025b35a953b4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2346,7 +2346,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8e22b363-30e8-43aa-bf64-8893f901cd30")
+			(uuid "1b44a408-c748-41bd-bbb4-7925e9627851")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3179,6 +3179,19 @@
 				(thickness 0.1)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "V1.0"
+		(at 118.524204 105 90)
+		(layer "B.SilkS")
+		(uuid "84702939-4e5a-493d-8b68-836a84141483")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "SDA"
