@@ -20,5 +20,59 @@
 
 <br/>
 
+## Feature List
+<details>
+<summary><b>Comprehensive Sensor Array</b></summary>
+<br/>
+
+- Temperature
+- Relative Humidity
+- Absolute Humidity (Approximation)
+- VOC Index
+- Particulate Matter
+  - PM1.0
+  - PM2.5
+  - PM4.0
+  - PM10.0
+- Nitrogen Oxide Index (NOx)
+- Carbon Dioxide (w/ Add-On Board)
+- Atmospheric Pressure (w/ Add-On Board)
+
+</details>
+
+<details>
+<summary><b>ESPHome Integration</b></summary>
+<br/>  
+Requires a Home Assistant instance; alternatively, AERIS can be operated without Home Assistant through its standalone mode.
+<br/>
+<br/>
+</details>
+
+<details>
+<summary><b>Standalone Mode</b></summary>
+<br/>
+The ESP controller can host a local webpage, circumventing the need for a Home Assistant instance.
+<br/> 
+<br/>
+</details>
+
+<details>
+<summary><b>1.54" OLED Display</b></summary>
+<br/>
+Configurable to either show key data at a glance or show in-depth information reported by AERIS.
+<br/> 
+<br/>
+</details>
+
+<details>
+<summary><b>Snap-Fit Case</b></summary>
+<br/>
+For an easy assembly, reduced BOM and clean finish, the case is designed to snap-fit together.
+<br/>
+<br/>
+</details>
+
+<br/>
+
 ## More Information
 Interested in this project or building an AERIS unit? Visit the [official documentation](https://aeris-docs.xyz) site for more info.
