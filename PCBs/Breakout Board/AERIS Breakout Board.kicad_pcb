@@ -139,7 +139,7 @@
 	(net 14 "unconnected-(U1-D2-Pad3)")
 	(net 15 "unconnected-(U1-D9-Pad10)")
 	(net 16 "unconnected-(U1-VCC_3V3-Pad12)")
-	(footprint "Custom Footprints:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
+	(footprint "Library:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "3421efaf-d43c-4c5c-bfc1-08d511fa303b")
 		(at 173.5 95 -90)
@@ -617,7 +617,7 @@
 			)
 		)
 	)
-	(footprint "Custom Footprints:TO-92_Inline"
+	(footprint "Library:TO-92_Inline"
 		(layer "F.Cu")
 		(uuid "6642fecc-3082-48a7-8a0d-9087fbc81f4d")
 		(at 156.77 107 180)
@@ -839,7 +839,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
 		(layer "F.Cu")
 		(uuid "864575b7-d11c-4304-b49f-b246ddaf9d21")
 		(at 147 93)
@@ -953,7 +953,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Custom Footprints:XIAO_ESP32"
+	(footprint "Library:XIAO_ESP32"
 		(layer "F.Cu")
 		(uuid "88cbc3b6-967c-4f2c-b904-d426447ea136")
 		(at 132.268 100 90)
@@ -1366,7 +1366,7 @@
 				)
 			)
 		)
-		(fp_text user "ESP32-C3/C6"
+		(fp_text user "ESP32C6"
 			(at 0 1 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -1641,7 +1641,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/alex/Documents/GitHub/AERIS/CAD/Reference/Seeed Studio XIAO-ESP32-C3.step"
+		(model "/Users/alex/Documents/GitHub/AERIS/CAD/Reference/Seeed Studio XIAO ESP32-C6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1653,7 +1653,7 @@
 			)
 		)
 	)
-	(footprint "Custom Footprints:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
+	(footprint "Library:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "95491b94-f552-4176-ad39-2a163be02a20")
 		(at 165.55 95 -90)
@@ -2131,7 +2131,7 @@
 			)
 		)
 	)
-	(footprint "Custom Footprints:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+	(footprint "Library:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "9be432da-cba8-42f5-9bb3-6a355d55c9b1")
 		(at 154 92.888)
@@ -2576,7 +2576,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
 		(layer "F.Cu")
 		(uuid "b0b8e706-8c26-4973-a8b0-0c59acf25337")
 		(at 147 107)
@@ -2690,7 +2690,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Custom Footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+	(footprint "Library:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fc8a6b5f-d4a1-4aed-8bbe-5e6efe4b9e96")
 		(at 151.5 99.5)
@@ -2894,7 +2894,7 @@
 			)
 		)
 	)
-	(footprint "Symbol:KiCad-Logo2_5mm_SilkScreen"
+	(footprint "Library:KiCad-Logo2_5mm_SilkScreen"
 		(layer "B.Cu")
 		(uuid "0255cd04-8cbb-4c49-b35b-36db583aa783")
 		(at 125.92393 100 -90)
@@ -3577,7 +3577,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Symbol:Symbol_GNU-Logo_SilkscreenTop"
+	(footprint "Library:Symbol_GNU-Logo_SilkscreenTop"
 		(layer "B.Cu")
 		(uuid "d88a25b3-7b7b-41e8-b92e-3e2483084395")
 		(at 134.92393 100 -90)

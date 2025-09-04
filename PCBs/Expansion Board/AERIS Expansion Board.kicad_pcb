@@ -126,7 +126,7 @@
 	(net 2 "/+5V")
 	(net 3 "/SDA")
 	(net 4 "/SCL")
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "48398bce-03c6-4297-8346-41985cc8eabc")
 		(at 132 117 90)
@@ -413,7 +413,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
+	(footprint "Library:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "4fdbfff9-edeb-4de3-86af-288d5f70aa5d")
 		(at 113 105 -90)
@@ -891,7 +891,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e937a54e-c032-4d9c-b677-1f326aa71399")
 		(at 119.5 117 90)
@@ -1178,7 +1178,7 @@
 			)
 		)
 	)
-	(footprint "Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
+	(footprint "Library:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f0d700c8-02d2-4cc3-b0af-b0899c6ade6a")
 		(at 105.5 105 -90)
@@ -1656,7 +1656,7 @@
 			)
 		)
 	)
-	(footprint "Symbol:KiCad-Logo2_5mm_SilkScreen"
+	(footprint "Library:KiCad-Logo2_5mm_SilkScreen"
 		(layer "B.Cu")
 		(uuid "0eb84a9a-a560-48a2-98cd-75acebbbffc8")
 		(at 134.5 107.334319 180)
@@ -2339,7 +2339,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen"
+	(footprint "Library:OSHW-Logo2_7.3x6mm_SilkScreen"
 		(layer "B.Cu")
 		(uuid "60aafb5d-ed94-4bdc-a341-f820fc21f276")
 		(at 123.024204 107.576766 180)
